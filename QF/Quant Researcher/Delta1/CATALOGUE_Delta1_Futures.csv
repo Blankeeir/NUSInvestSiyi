@@ -1,0 +1,189 @@
+symbol,assetid,securityname,currency,exchange_name,exchange_name_full,base_type,subtype1,subtype2,subtype3,financial_summary,business_summary,first_quoted_date,last_quoted_date,second_last_quoted_date,Class,tick_size,point_value,margin,first_notice_date,lowest_ever_tick_size,session_symbol,market_symbol
+&6A,471488,Australian Dollar Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,13/1/87,,,Currency,5.00E-05,100000,1595,,5.00E-05,6A,6A
+&6A_CCB,686982,Australian Dollar Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,13/1/87,,,Currency,5.00E-05,100000,1595,,5.00E-05,6A,6A
+&6B,471490,British Pound Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,4/5/76,,,Currency,0.0001,62500,2090,,0.0001,6B,6B
+&6B_CCB,686984,British Pound Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,4/5/76,,,Currency,0.0001,62500,2090,,0.0001,6B,6B
+&6C,471493,Canadian Dollar Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,5/3/79,,,Currency,5.00E-05,100000,1100,,5.00E-05,6C,6C
+&6C_CCB,686987,Canadian Dollar Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,5/3/79,,,Currency,5.00E-05,100000,1100,,5.00E-05,6C,6C
+&6E,471507,Euro FX Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,4/1/99,,,Currency,5.00E-05,125000,2310,,5.00E-05,6E,6E
+&6E_CCB,687000,Euro FX Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,4/1/99,,,Currency,5.00E-05,125000,2310,,5.00E-05,6E,6E
+&6J,471530,Japanese Yen Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,2/8/76,,,Currency,5.00E-05,125000,2860,,5.00E-05,6J,6J
+&6J_CCB,687021,Japanese Yen Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,2/8/76,,,Currency,5.00E-05,125000,2860,,5.00E-05,6J,6J
+&6M,471535,Mexican Peso Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,25/4/95,,,Currency,1.00E-05,500000,1265,,1.00E-05,6M,6M
+&6M_CCB,687026,Mexican Peso Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,25/4/95,,,Currency,1.00E-05,500000,1265,,1.00E-05,6M,6M
+&6N,548682,New Zealand Dollar Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,19/9/05,,,Currency,5.00E-05,100000,1540,,5.00E-05,6N,6N
+&6N_CCB,687073,New Zealand Dollar Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,19/9/05,,,Currency,5.00E-05,100000,1540,,5.00E-05,6N,6N
+&6S,471564,Swiss Franc Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,20/3/79,,,Currency,5.00E-05,125000,4070,,5.00E-05,6S,6S
+&6S_CCB,687055,Swiss Franc Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Currency,,,,,20/3/79,,,Currency,5.00E-05,125000,4070,,5.00E-05,6S,6S
+&AFB,582862,Eastern Australia Feed Barley Continuous Contract,AUD,ASX,Australian Securities Exchange,Futures Market,Agriculture,,,,,26/5/03,,,Agriculture & Livestock,0.1,20,532,,0.1,AFB,AFB
+&AFB_CCB,687361,Eastern Australia Feed Barley Continuous Contract Backadjusted,AUD,ASX,Australian Securities Exchange,Futures Market,Agriculture,,,,,26/5/03,,,Agriculture & Livestock,0.1,20,532,,0.1,AFB,AFB
+&AWM,2324797,Eastern Australia Wheat Continuous Contract,AUD,ASX,Australian Securities Exchange,Futures Market,Agriculture,,,,,20/5/03,,,Agriculture & Livestock,0.1,20,662,,0.1,AWM,AWM
+&AWM_CCB,2324798,Eastern Australia Wheat Continuous Contract Backadjusted,AUD,ASX,Australian Securities Exchange,Futures Market,Agriculture,,,,,20/5/03,,,Agriculture & Livestock,0.1,20,662,,0.1,AWM,AWM
+&BAX,471492,Canadian Bankers Acceptance Continuous Contract,CAD,ME,Montreal Exchange,Futures Market,Interest Rate,,,,,22/4/88,,,Interest Rate,0.005,2500,341,,0.005,BAX,BAX
+&BAX_CCB,686986,Canadian Bankers Acceptance Continuous Contract Backadjusted,CAD,ME,Montreal Exchange,Futures Market,Interest Rate,,,,,22/4/88,,,Interest Rate,0.005,2500,341,,0.005,BAX,BAX
+&BRN,471489,Brent Crude Oil Continuous Contract,USD,ICE Europe,ICE Futures Europe,Futures Market,Energy,,,,,23/6/88,,,Energy,0.01,1000,5310,,0.01,BRN,BRN
+&BRN_CCB,686983,Brent Crude Oil Continuous Contract Backadjusted,USD,ICE Europe,ICE Futures Europe,Futures Market,Energy,,,,,23/6/88,,,Energy,0.01,1000,5310,,0.01,BRN,BRN
+&CC,471495,Cocoa Continuous Contract,USD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,19/12/79,,,Agriculture & Livestock,1,10,14020,,1,CC,CC
+&CC_CCB,686989,Cocoa Continuous Contract Backadjusted,USD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,19/12/79,,,Agriculture & Livestock,1,10,14020,,1,CC,CC
+&CGB,471478,10-Year Govt. of Canada Bond Continuous Contract,CAD,ME,Montreal Exchange,Futures Market,Interest Rate,,,,,2/10/96,,,Interest Rate,0.01,1000,2814,,0.01,CGB,CGB
+&CGB_CCB,686973,10-Year Govt. of Canada Bond Continuous Contract Backadjusted,CAD,ME,Montreal Exchange,Futures Market,Interest Rate,,,,,2/10/96,,,Interest Rate,0.01,1000,2814,,0.01,CGB,CGB
+&CL,471500,Crude Oil - Light Sweet Continuous Contract,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Energy,,,,,30/3/83,,,Energy,0.01,1000,7260,,0.01,CL,CL
+&CL_CCB,686994,Crude Oil - Light Sweet Continuous Contract Backadjusted,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Energy,,,,,30/3/83,,,Energy,0.01,1000,7260,,0.01,CL,CL
+&CT,471499,Cotton No. 2 Continuous Contract,USD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,19/9/78,,,Agriculture & Livestock,0.01,500,3000,,0.01,CT,CT
+&CT_CCB,686993,Cotton No. 2 Continuous Contract Backadjusted,USD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,19/9/78,,,Agriculture & Livestock,0.01,500,3000,,0.01,CT,CT
+&DC,504038,Class III Milk Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Agriculture,,,,,7/7/97,,,Agriculture & Livestock,0.01,2000,1485,,0.01,DC,DC
+&DC_CCB,687070,Class III Milk Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Agriculture,,,,,7/7/97,,,Agriculture & Livestock,0.01,2000,1485,,0.01,DC,DC
+&DX,471566,US Dollar Index Continuous Contract,USD,ICE US,ICE Futures US,Futures Market,Currency,,,,,20/11/85,,,Currency,0.001,1000,1800,,0.001,DX,DX
+&DX_CCB,687057,US Dollar Index Continuous Contract Backadjusted,USD,ICE US,ICE Futures US,Futures Market,Currency,,,,,20/11/85,,,Currency,0.001,1000,1800,,0.001,DX,DX
+&EMD,607994,E-mini S&P MidCap 400 Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,28/1/02,,,Stock Index,0.1,100,16610,,0.1,EMD,EMD
+&EMD_CCB,687078,E-mini S&P MidCap 400 Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,28/1/02,,,Stock Index,0.1,100,16610,,0.1,EMD,EMD
+&ES,471505,E-mini S&P 500 Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,9/9/97,,,Stock Index,0.25,50,12980,,0.25,ES,ES
+&ES_CCB,686998,E-mini S&P 500 Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,9/9/97,,,Stock Index,0.25,50,12980,,0.25,ES,ES
+&EUA,2731054,EUA Continuous Contract,EUR,ICE Europe,ICE Futures Europe,Futures Market,Other,,,,,22/4/05,,,Other,0.01,1000,8440,,0.01,EUA,EUA
+&EUA_CCB,2731055,EUA Continuous Contract Backadjusted,EUR,ICE Europe,ICE Futures Europe,Futures Market,Other,,,,,22/4/05,,,Other,0.01,1000,8440,,0.01,EUA,EUA
+&FCE,471491,CAC 40 Continuous Contract,EUR,EURONEXT,Euronext,Futures Market,Stock Index,,,,,18/8/88,,,Stock Index,0.5,10,5500,,0.5,FCE,FCE
+&FCE_CCB,686985,CAC 40 Continuous Contract Backadjusted,EUR,EURONEXT,Euronext,Futures Market,Stock Index,,,,,18/8/88,,,Stock Index,0.5,10,5500,,0.5,FCE,FCE
+&FDAX,471501,DAX Continuous Contract,EUR,Eurex,Eurex,Futures Market,Stock Index,,,,,4/1/99,,,Stock Index,0.5,25,34636,,0.5,FDAX,FDAX
+&FDAX_CCB,686995,DAX Continuous Contract Backadjusted,EUR,Eurex,Eurex,Futures Market,Stock Index,,,,,4/1/99,,,Stock Index,0.5,25,34636,,0.5,FDAX,FDAX
+&FDAX9,2579893,DAX (L) Continuous Contract,EUR,Eurex,Eurex,Futures Market,Stock Index,,,,,21/3/05,,,Stock Index,0.5,25,34636,,0.5,FDAX9,FDAX
+&FDAX9_CCB,2580109,DAX (L) Continuous Contract Backadjusted,EUR,Eurex,Eurex,Futures Market,Stock Index,,,,,,,,Stock Index,0.5,25,34636,,0.5,FDAX9,FDAX
+&FESX,471508,EURO STOXX 50 Continuous Contract,EUR,Eurex,Eurex,Futures Market,Stock Index,,,,,26/3/99,,,Stock Index,1,10,3564,,0.01,FESX,FESX
+&FESX_CCB,687001,EURO STOXX 50 Continuous Contract Backadjusted,EUR,Eurex,Eurex,Futures Market,Stock Index,,,,,26/3/99,,,Stock Index,1,10,3564,,0.01,FESX,FESX
+&FESX9,2640764,EURO STOXX 50 (L) Continuous Contract,EUR,Eurex,Eurex,Futures Market,Stock Index,,,,,21/3/05,,,Stock Index,1,10,3564,,0.01,FESX9,FESX
+&FESX9_CCB,2640765,EURO STOXX 50 (L) Continuous Contract Backadjusted,EUR,Eurex,Eurex,Futures Market,Stock Index,,,,,21/3/05,,,Stock Index,1,10,3564,,0.01,FESX9,FESX
+&FGBL,471510,Euro-Bund Continuous Contract,EUR,Eurex,Eurex,Futures Market,Interest Rate,,,,,4/1/99,,,Interest Rate,0.01,1000,3109,,0.01,FGBL,FGBL
+&FGBL_CCB,687003,Euro-Bund Continuous Contract Backadjusted,EUR,Eurex,Eurex,Futures Market,Interest Rate,,,,,4/1/99,,,Interest Rate,0.01,1000,3109,,0.01,FGBL,FGBL
+&FGBM,471509,Euro-Bobl Continuous Contract,EUR,Eurex,Eurex,Futures Market,Interest Rate,,,,,1/2/99,,,Interest Rate,0.01,1000,1619,,0.005,FGBM,FGBM
+&FGBM_CCB,687002,Euro-Bobl Continuous Contract Backadjusted,EUR,Eurex,Eurex,Futures Market,Interest Rate,,,,,1/2/99,,,Interest Rate,0.01,1000,1619,,0.005,FGBM,FGBM
+&FGBS,471512,Euro-Schatz Continuous Contract,EUR,Eurex,Eurex,Futures Market,Interest Rate,,,,,20/1/99,,,Interest Rate,0.005,1000,665,,0.005,FGBS,FGBS
+&FGBS_CCB,687005,Euro-Schatz Continuous Contract Backadjusted,EUR,Eurex,Eurex,Futures Market,Interest Rate,,,,,20/1/99,,,Interest Rate,0.005,1000,665,,0.005,FGBS,FGBS
+&FGBX,471511,Euro-Buxl Continuous Contract,EUR,Eurex,Eurex,Futures Market,Interest Rate,,,,,12/9/05,,,Interest Rate,0.02,1000,7042,,0.02,FGBX,FGBX
+&FGBX_CCB,687004,Euro-Buxl Continuous Contract Backadjusted,EUR,Eurex,Eurex,Futures Market,Interest Rate,,,,,12/9/05,,,Interest Rate,0.02,1000,7042,,0.02,FGBX,FGBX
+&FSMI,471557,Swiss Market Index Continuous Contract,CHF,Eurex,Eurex,Futures Market,Stock Index,,,,,4/1/99,,,Stock Index,1,10,6671,,1,FSMI,FSMI
+&FSMI_CCB,687048,Swiss Market Index Continuous Contract Backadjusted,CHF,Eurex,Eurex,Futures Market,Stock Index,,,,,4/1/99,,,Stock Index,1,10,6671,,1,FSMI,FSMI
+&FTDX,471565,TecDAX Continuous Contract,EUR,Eurex,Eurex,Futures Market,Stock Index,,,,,11/11/05,,,Stock Index,0.5,10,2908,,0.5,FTDX,FTDX
+&FTDX_CCB,687056,TecDAX Continuous Contract Backadjusted,EUR,Eurex,Eurex,Futures Market,Stock Index,,,,,11/11/05,,,Stock Index,0.5,10,2908,,0.5,FTDX,FTDX
+&GAS,471520,Low Sulphur Gasoil Continuous Contract,USD,ICE Europe,ICE Futures Europe,Futures Market,Energy,,,,,10/11/88,,,Energy,0.25,100,4591,,0.25,GAS,GAS
+&GAS_CCB,687012,Low Sulphur Gasoil Continuous Contract Backadjusted,USD,ICE Europe,ICE Futures Europe,Futures Market,Energy,,,,,10/11/88,,,Energy,0.25,100,4591,,0.25,GAS,GAS
+&GC,471521,Gold Continuous Contract,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Metal,,,,,30/3/78,,,Metal,0.1,100,11000,,0.1,GC,GC
+&GC_CCB,687013,Gold Continuous Contract Backadjusted,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Metal,,,,,30/3/78,,,Metal,0.1,100,11000,,0.1,GC,GC
+&GD,471554,S&P GSCI Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Other,,,,,15/4/96,,,Other,0.05,250,7700,,0.05,GD,GD
+&GD_CCB,687045,S&P GSCI Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Other,,,,,15/4/96,,,Other,0.05,250,7700,,0.05,GD,GD
+&GF,471518,Feeder Cattle Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Agriculture,,,,,3/6/76,,,Agriculture & Livestock,0.025,500,4538,,0.025,GF,GF
+&GF_CCB,687010,Feeder Cattle Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Agriculture,,,,,3/6/76,,,Agriculture & Livestock,0.025,500,4538,,0.025,GF,GF
+&GWM,2716788,UK Natural Gas Continuous Contract,GBP,ICE Europe,ICE Futures Europe,Futures Market,Energy,,,,,25/10/12,,,Energy,0.01,1000,215,,0.01,GWM,GWM
+&GWM_CCB,2716789,UK Natural Gas Continuous Contract Backadjusted,GBP,ICE Europe,ICE Futures Europe,Futures Market,Energy,,,,,25/10/12,,,Energy,0.01,1000,215,,0.01,GWM,GWM
+&HE,471532,Lean Hogs Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Agriculture,,,,,25/6/69,,,Agriculture & Livestock,0.025,400,1650,,0.025,HE,HE
+&HE_CCB,687023,Lean Hogs Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Agriculture,,,,,25/6/69,,,Agriculture & Livestock,0.025,400,1650,,0.025,HE,HE
+&HG,471497,Copper Continuous Contract,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Metal,,,,,27/4/78,,,Metal,0.05,250,5500,,0.05,HG,HG
+&HG_CCB,686991,Copper Continuous Contract Backadjusted,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Metal,,,,,27/4/78,,,Metal,0.05,250,5500,,0.05,HG,HG
+&HO,471528,NY Harbor ULSD Continuous Contract,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Energy,,,,,15/11/78,,,Energy,0.0001,42000,9460,,0.0001,HO,HO
+&HO_CCB,687019,NY Harbor ULSD Continuous Contract Backadjusted,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Energy,,,,,15/11/78,,,Energy,0.0001,42000,9460,,0.0001,HO,HO
+&HSI,471526,Hang Seng Index Continuous Contract,HKD,HKFE,Hong Kong Futures Exchange,Futures Market,Stock Index,,,,,1/4/96,,,Stock Index,1,50,73017,,1,HSI,HSI
+&HSI_CCB,687017,Hang Seng Index Continuous Contract Backadjusted,HKD,HKFE,Hong Kong Futures Exchange,Futures Market,Stock Index,,,,,1/4/96,,,Stock Index,1,50,73017,,1,HSI,HSI
+&HTW,2753283,MSCI Taiwan Index Continuous Contract,USD,HKFE,Hong Kong Futures Exchange,Futures Market,Stock Index,,,,,9/1/97,,,Stock Index,0.1,100,5306,,0.01,HTW,HTW
+&HTW_CCB,2753284,MSCI Taiwan Index Continuous Contract Backadjusted,USD,HKFE,Hong Kong Futures Exchange,Futures Market,Stock Index,,,,,9/1/97,,,Stock Index,0.1,100,5306,,0.01,HTW,HTW
+&KC,607992,Coffee C Continuous Contract,USD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,14/12/78,,,Agriculture & Livestock,0.05,375,6000,,0.05,KC,KC
+&KC_CCB,687076,Coffee C Continuous Contract Backadjusted,USD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,14/12/78,,,Agriculture & Livestock,0.05,375,6000,,0.05,KC,KC
+&KE,471570,KC HRW Wheat Continuous Contract,USD,KCBT,Kansas City Board of Trade (CME Group),Futures Market,Agriculture,,,,,23/4/79,,,Agriculture & Livestock,0.25,50,2200,,0.25,KE,KE
+&KE_CCB,687062,KC HRW Wheat Continuous Contract Backadjusted,USD,KCBT,Kansas City Board of Trade (CME Group),Futures Market,Agriculture,,,,,23/4/79,,,Agriculture & Livestock,0.25,50,2200,,0.25,KE,KE
+&KOS,471531,KOSPI 200 Continuous Contract,KRW,KRX,Korea Exchange,Futures Market,Stock Index,,,,,12/12/00,,,Stock Index,0.05,250000,13538250,,0.05,KOS,KOS
+&KOS_CCB,687022,KOSPI 200 Continuous Contract Backadjusted,KRW,KRX,Korea Exchange,Futures Market,Stock Index,,,,,12/12/00,,,Stock Index,0.05,250000,13538250,,0.05,KOS,KOS
+&LBS,607995,Random Length Lumber Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Agriculture,,,,,16/11/72,,,Agriculture & Livestock,0.1,110,5940,,0.1,LBS,LBS
+&LBS_CCB,687079,Random Length Lumber Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Agriculture,,,,,16/11/72,,,Agriculture & Livestock,0.1,110,5940,,0.1,LBS,LBS
+&LCC,471496,London Cocoa Continuous Contract,GBP,ICE Europe,ICE Futures Europe,Futures Market,Agriculture,,,,,1/10/81,,,Agriculture & Livestock,1,10,14470,,1,LCC,LCC
+&LCC_CCB,686990,London Cocoa Continuous Contract Backadjusted,GBP,ICE Europe,ICE Futures Europe,Futures Market,Agriculture,,,,,1/10/81,,,Agriculture & Livestock,1,10,14470,,1,LCC,LCC
+&LE,471533,Live Cattle Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Agriculture,,,,,23/2/76,,,Agriculture & Livestock,0.025,400,2695,,0.025,LE,LE
+&LE_CCB,687024,Live Cattle Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Agriculture,,,,,23/2/76,,,Agriculture & Livestock,0.025,400,2695,,0.025,LE,LE
+&LEU,471506,Euribor Continuous Contract,EUR,ICE Europe,ICE Futures Europe,Futures Market,Interest Rate,,,,,4/1/99,,,Interest Rate,0.005,2500,977,,0.005,LEU,LEU
+&LEU_CCB,686999,Euribor Continuous Contract Backadjusted,EUR,ICE Europe,ICE Futures Europe,Futures Market,Interest Rate,,,,,4/1/99,,,Interest Rate,0.005,2500,977,,0.005,LEU,LEU
+&LFT,471519,FTSE 100 Continuous Contract,GBP,ICE Europe,ICE Futures Europe,Futures Market,Stock Index,,,,,11/10/94,,,Stock Index,0.5,10,3909,,0.5,LFT,LFT
+&LFT_CCB,687011,FTSE 100 Continuous Contract Backadjusted,GBP,ICE Europe,ICE Futures Europe,Futures Market,Stock Index,,,,,11/10/94,,,Stock Index,0.5,10,3909,,0.5,LFT,LFT
+&LLG,471534,Long Gilt Continuous Contract,GBP,ICE Europe,ICE Futures Europe,Futures Market,Interest Rate,,,,,23/2/88,,,Interest Rate,0.01,1000,3680,,0.01,LLG,LLG
+&LLG_CCB,687025,Long Gilt Continuous Contract Backadjusted,GBP,ICE Europe,ICE Futures Europe,Futures Market,Interest Rate,,,,,23/2/88,,,Interest Rate,0.01,1000,3680,,0.01,LLG,LLG
+&LRC,471547,Robusta Coffee 10 Tonne Continuous Contract,USD,ICE Europe,ICE Futures Europe,Futures Market,Agriculture,,,,,1/12/81,,,Agriculture & Livestock,1,10,3540,,1,LRC,LRC
+&LRC_CCB,687038,Robusta Coffee 10 Tonne Continuous Contract Backadjusted,USD,ICE Europe,ICE Futures Europe,Futures Market,Agriculture,,,,,1/12/81,,,Agriculture & Livestock,1,10,3540,,1,LRC,LRC
+&LSU,471563,White Sugar Continuous Contract,USD,ICE Europe,ICE Futures Europe,Futures Market,Agriculture,,,,,13/9/88,,,Agriculture & Livestock,0.1,50,2055,,0.1,LSU,LSU
+&LSU_CCB,687054,White Sugar Continuous Contract Backadjusted,USD,ICE Europe,ICE Futures Europe,Futures Market,Agriculture,,,,,13/9/88,,,Agriculture & Livestock,0.1,50,2055,,0.1,LSU,LSU
+&LWB,471572,Feed Wheat Continuous Contract,GBP,ICE Europe,ICE Futures Europe,Futures Market,Agriculture,,,,,2/12/91,,,Agriculture & Livestock,0.05,100,1351,,0.05,LWB,LWB
+&LWB_CCB,687064,Feed Wheat Continuous Contract Backadjusted,GBP,ICE Europe,ICE Futures Europe,Futures Market,Agriculture,,,,,2/12/91,,,Agriculture & Livestock,0.05,100,1351,,0.05,LWB,LWB
+&MHI,471527,Hang Seng Index - Mini Continuous Contract,HKD,HKFE,Hong Kong Futures Exchange,Futures Market,Stock Index,,,,,9/10/00,,,Stock Index,1,10,14603,,1,MHI,MHI
+&MHI_CCB,687018,Hang Seng Index - Mini Continuous Contract Backadjusted,HKD,HKFE,Hong Kong Futures Exchange,Futures Market,Stock Index,,,,,9/10/00,,,Stock Index,1,10,14603,,1,MHI,MHI
+&MWE,471569,Hard Red Spring Wheat Continuous Contract,USD,MGE,Minneapolis Grain Exchange,Futures Market,Agriculture,,,,,5/4/79,,,Agriculture & Livestock,0.25,50,3000,,0.25,MWE,MWE
+&MWE_CCB,687060,Hard Red Spring Wheat Continuous Contract Backadjusted,USD,MGE,Minneapolis Grain Exchange,Futures Market,Agriculture,,,,,5/4/79,,,Agriculture & Livestock,0.25,50,3000,,0.25,MWE,MWE
+&NG,471540,Henry Hub Natural Gas Continuous Contract,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Energy,,,,,3/4/90,,,Energy,0.001,10000,6050,,0.001,NG,NG
+&NG_CCB,687031,Henry Hub Natural Gas Continuous Contract Backadjusted,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Energy,,,,,3/4/90,,,Energy,0.001,10000,6050,,0.001,NG,NG
+&NIY,503271,Nikkei 225 Yen Continuous Contract,JPY,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,23/2/04,,,Stock Index,5,500,935000,,5,NIY,NIY
+&NIY_CCB,687067,Nikkei 225 Yen Continuous Contract Backadjusted,JPY,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,23/2/04,,,Stock Index,5,500,935000,,5,NIY,NIY
+&NKD,503272,Nikkei 225 Dollar Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,25/9/90,,,Stock Index,5,5,9350,,5,NKD,NKD
+&NKD_CCB,687068,Nikkei 225 Dollar Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,25/9/90,,,Stock Index,5,5,9350,,5,NKD,NKD
+&NQ,471503,E-mini Nasdaq-100 Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,21/6/99,,,Stock Index,0.25,20,19470,,0.25,NQ,NQ
+&NQ_CCB,686997,E-mini Nasdaq-100 Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,21/6/99,,,Stock Index,0.25,20,19470,,0.25,NQ,NQ
+&OJ,471516,Frozen Concentrated Orange Juice Grade A Continuous Contract,USD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,8/8/78,,,Agriculture & Livestock,0.05,150,4608,,0.05,OJ,OJ
+&OJ_CCB,687009,Frozen Concentrated Orange Juice Grade A Continuous Contract Backadjusted,USD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,8/8/78,,,Agriculture & Livestock,0.05,150,4608,,0.05,OJ,OJ
+&PA,471543,Palladium Continuous Contract,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Metal,,,,,5/10/81,,,Metal,0.1,100,13750,,0.05,PA,PA
+&PA_CCB,687034,Palladium Continuous Contract Backadjusted,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Metal,,,,,5/10/81,,,Metal,0.1,100,13750,,0.05,PA,PA
+&PL,471544,Platinum Continuous Contract,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Metal,,,,,15/5/78,,,Metal,0.1,50,2750,,0.1,PL,PL
+&PL_CCB,687035,Platinum Continuous Contract Backadjusted,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Metal,,,,,15/5/78,,,Metal,0.1,50,2750,,0.1,PL,PL
+&RB,471546,RBOB Gasoline Continuous Contract,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Energy,,,,,3/10/05,,,Energy,0.0001,42000,8690,,0.0001,RB,RB
+&RB_CCB,687037,RBOB Gasoline Continuous Contract Backadjusted,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Energy,,,,,3/10/05,,,Energy,0.0001,42000,8690,,0.0001,RB,RB
+&RS,471494,Canola Continuous Contract,CAD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,18/11/80,,,Agriculture & Livestock,0.1,20,650,,0.1,RS,RS
+&RS_CCB,686988,Canola Continuous Contract Backadjusted,CAD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,18/11/80,,,Agriculture & Livestock,0.1,20,650,,0.1,RS,RS
+&RTY,2323410,E-mini Russell 2000 Continuous Contract,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,23/10/01,,,Stock Index,0.1,50,7150,,0.1,RTY,RTY
+&RTY_CCB,2323411,E-mini Russell 2000 Continuous Contract Backadjusted,USD,CME,Chicago Mercantile Exchange (CME Group),Futures Market,Stock Index,,,,,23/10/01,,,Stock Index,0.1,50,7150,,0.1,RTY,RTY
+&SB,471562,Sugar No. 11 Continuous Contract,USD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,17/10/78,,,Agriculture & Livestock,0.01,1120,2016,,0.01,SB,SB
+&SB_CCB,687053,Sugar No. 11 Continuous Contract Backadjusted,USD,ICE US,ICE Futures US,Futures Market,Agriculture,,,,,17/10/78,,,Agriculture & Livestock,0.01,1120,2016,,0.01,SB,SB
+&SI,471556,Silver Continuous Contract,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Metal,,,,,27/4/78,,,Metal,0.5,50,11550,,0.5,SI,SI
+&SI_CCB,687047,Silver Continuous Contract Backadjusted,USD,NYMEX,New York Mercantile Exchange (CME Group),Futures Market,Metal,,,,,27/4/78,,,Metal,0.5,50,11550,,0.5,SI,SI
+&SJB,471529,Japanese Govt Bond - Mini Continuous Contract,JPY,SGX,Singapore Exchange,Futures Market,Interest Rate,,,,,10/12/98,,,Interest Rate,0.01,100000,220000,,0.01,SJB,SJB
+&SJB_CCB,687020,Japanese Govt Bond - Mini Continuous Contract Backadjusted,JPY,SGX,Singapore Exchange,Futures Market,Interest Rate,,,,,10/12/98,,,Interest Rate,0.01,100000,220000,,0.01,SJB,SJB
+&SNK,471541,Nikkei 225 (SGX) Continuous Contract,JPY,SGX,Singapore Exchange,Futures Market,Stock Index,,,,,21/9/89,,,Stock Index,5,500,935000,,5,SNK,SNK
+&SNK_CCB,687032,Nikkei 225 (SGX) Continuous Contract Backadjusted,JPY,SGX,Singapore Exchange,Futures Market,Stock Index,,,,,21/9/89,,,Stock Index,5,500,935000,,5,SNK,SNK
+&SSG,471537,MSCI Singapore Index Continuous Contract,SGD,SGX,Singapore Exchange,Futures Market,Stock Index,,,,,7/9/98,,,Stock Index,0.05,100,1430,,0.01,SSG,SSG
+&SSG_CCB,687028,MSCI Singapore Index Continuous Contract Backadjusted,SGD,SGX,Singapore Exchange,Futures Market,Stock Index,,,,,7/9/98,,,Stock Index,0.05,100,1430,,0.01,SSG,SSG
+&SXF,471552,S&P/TSX 60 Index Continuous Contract,CAD,ME,Montreal Exchange,Futures Market,Stock Index,,,,,7/9/99,,,Stock Index,0.1,200,13447,,0.1,SXF,SXF
+&SXF_CCB,687043,S&P/TSX 60 Index Continuous Contract Backadjusted,CAD,ME,Montreal Exchange,Futures Market,Stock Index,,,,,7/9/99,,,Stock Index,0.1,200,13447,,0.1,SXF,SXF
+&VX,503273,CBOE Volatility Index Continuous Contract,USD,CBOE,Cboe Futures Exchange,Futures Market,Stock Index,,,,,26/3/04,,,Stock Index,0.05,1000,6094,,0.0001,VX,VX
+&VX_CCB,687069,CBOE Volatility Index Continuous Contract Backadjusted,USD,CBOE,Cboe Futures Exchange,Futures Market,Stock Index,,,,,26/3/04,,,Stock Index,0.05,1000,6094,,0.0001,VX,VX
+&WBS,471571,WTI Crude Oil Continuous Contract,USD,ICE Europe,ICE Futures Europe,Futures Market,Energy,,,,,3/2/06,,,Energy,0.01,1000,6540,,0.01,WBS,WBS
+&WBS_CCB,687063,WTI Crude Oil Continuous Contract Backadjusted,USD,ICE Europe,ICE Futures Europe,Futures Market,Energy,,,,,3/2/06,,,Energy,0.01,1000,6540,,0.01,WBS,WBS
+&YAP,471561,ASX SPI 200 Continuous Contract,AUD,ASX,Australian Securities Exchange,Futures Market,Stock Index,,,,,16/2/83,,,Stock Index,1,25,15387,,0.1,YAP,YAP
+&YAP_CCB,687052,ASX SPI 200 Continuous Contract Backadjusted,AUD,ASX,Australian Securities Exchange,Futures Market,Stock Index,,,,,16/2/83,,,Stock Index,1,25,15387,,0.1,YAP,YAP
+&YAP10,2584695,ASX SPI 200 (N) (L) Continuous Contract,AUD,ASX,Australian Securities Exchange,Futures Market,Stock Index,,,,,3/1/92,,,Stock Index,1,25,15387,,0.1,YAP10,YAP
+&YAP10_CCB,2584853,ASX SPI 200 (N) (L) Continuous Contract Backadjusted,AUD,ASX,Australian Securities Exchange,Futures Market,Stock Index,,,,,23/10/19,,,Stock Index,1,25,15387,,0.1,YAP10,YAP
+&YAP4,2584694,ASX SPI 200 (D) Continuous Contract,AUD,ASX,Australian Securities Exchange,Futures Market,Stock Index,,,,,16/2/83,,,Stock Index,1,25,15387,,0.1,YAP4,YAP
+&YAP4_CCB,2584852,ASX SPI 200 (D) Continuous Contract Backadjusted,AUD,ASX,Australian Securities Exchange,Futures Market,Stock Index,,,,,23/10/19,,,Stock Index,1,25,15387,,0.1,YAP4,YAP
+&YIB,471484,ASX 30 Day Interbank Cash Rate Continuous Contract,AUD,ASX,Australian Securities Exchange,Futures Market,Interest Rate,,,,,12/8/03,,,Interest Rate,0.005,8932,653,,0.005,YIB,YIB
+&YIB_CCB,686978,ASX 30 Day Interbank Cash Rate Continuous Contract Backadjusted,AUD,ASX,Australian Securities Exchange,Futures Market,Interest Rate,,,,,12/8/03,,,Interest Rate,0.005,8932,653,,0.005,YIB,YIB
+&YIR,471487,ASX 90 Day Bank Accepted Bills Continuous Contract,AUD,ASX,Australian Securities Exchange,Futures Market,Interest Rate,,,,,10/3/89,,,Interest Rate,0.01,2400,1042,,0.01,YIR,YIR
+&YIR_CCB,686981,ASX 90 Day Bank Accepted Bills Continuous Contract Backadjusted,AUD,ASX,Australian Securities Exchange,Futures Market,Interest Rate,,,,,10/3/89,,,Interest Rate,0.01,2400,1042,,0.01,YIR,YIR
+&YM,471536,E-mini Dow $5 Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Stock Index,,,,,5/4/02,,,Stock Index,1,5,9240,,1,YM,YM
+&YM_CCB,687027,E-mini Dow $5 Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Stock Index,,,,,5/4/02,,,Stock Index,1,5,9240,,1,YM,YM
+&YXT,470646,ASX 10 Year Treasury Bond Continuous Contract,AUD,ASX,Australian Securities Exchange,Futures Market,Interest Rate,,,,,5/12/84,,,Interest Rate,0.0025,8000,2878,,0.0025,YXT,YXT
+&YXT_CCB,686972,ASX 10 Year Treasury Bond Continuous Contract Backadjusted,AUD,ASX,Australian Securities Exchange,Futures Market,Interest Rate,,,,,5/12/84,,,Interest Rate,0.0025,8000,2878,,0.0025,YXT,YXT
+&YYT,471481,ASX 3 Year Treasury Bond Continuous Contract,AUD,ASX,Australian Securities Exchange,Futures Market,Interest Rate,,,,,17/5/88,,,Interest Rate,0.005,2800,1053,,0.005,YYT,YYT
+&YYT_CCB,686976,ASX 3 Year Treasury Bond Continuous Contract Backadjusted,AUD,ASX,Australian Securities Exchange,Futures Market,Interest Rate,,,,,17/5/88,,,Interest Rate,0.005,2800,1053,,0.005,YYT,YYT
+&ZB,471485,U.S. T-Bond Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Interest Rate,,,,,10/3/78,,,Interest Rate,0.03125,1000,4290,,0.015625,ZB,ZB
+&ZB_CCB,686979,U.S. T-Bond Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Interest Rate,,,,,10/3/78,,,Interest Rate,0.03125,1000,4290,,0.015625,ZB,ZB
+&ZC,471498,Corn Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,15/2/68,,,Agriculture & Livestock,0.25,50,1430,,0.25,ZC,ZC
+&ZC_CCB,686992,Corn Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,15/2/68,,,Agriculture & Livestock,0.25,50,1430,,0.25,ZC,ZC
+&ZF,471486,5-Year U.S. T-Note Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Interest Rate,,,,,20/5/88,,,Interest Rate,0.0078125,1000,1540,,0.0078125,ZF,ZF
+&ZF_CCB,686980,5-Year U.S. T-Note Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Interest Rate,,,,,20/5/88,,,Interest Rate,0.0078125,1000,1540,,0.0078125,ZF,ZF
+&ZL,471559,Soybean Oil Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,17/1/78,,,Agriculture & Livestock,0.01,600,1980,,0.01,ZL,ZL
+&ZL_CCB,687050,Soybean Oil Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,17/1/78,,,Agriculture & Livestock,0.01,600,1980,,0.01,ZL,ZL
+&ZM,471558,Soybean Meal Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,25/1/78,,,Agriculture & Livestock,0.1,100,2310,,0.1,ZM,ZM
+&ZM_CCB,687049,Soybean Meal Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,25/1/78,,,Agriculture & Livestock,0.1,100,2310,,0.1,ZM,ZM
+&ZN,471479,10-Year U.S. T-Note Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Interest Rate,,,,,3/5/82,,,Interest Rate,0.015625,1000,2338,,0.015625,ZN,ZN
+&ZN_CCB,686974,10-Year U.S. T-Note Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Interest Rate,,,,,3/5/82,,,Interest Rate,0.015625,1000,2338,,0.015625,ZN,ZN
+&ZO,471542,Oats Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,7/8/74,,,Agriculture & Livestock,0.25,50,1540,,0.25,ZO,ZO
+&ZO_CCB,687033,Oats Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,7/8/74,,,Agriculture & Livestock,0.25,50,1540,,0.25,ZO,ZO
+&ZQ,471483,30 Day Federal Funds Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Interest Rate,,,,,3/10/88,,,Interest Rate,0.0025,4167,1375,,0.0025,ZQ,ZQ
+&ZQ_CCB,686977,30 Day Federal Funds Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Interest Rate,,,,,3/10/88,,,Interest Rate,0.0025,4167,1375,,0.0025,ZQ,ZQ
+&ZR,471548,Rough Rice Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,20/8/86,,,Agriculture & Livestock,0.5,20,1518,,0.5,ZR,ZR
+&ZR_CCB,687039,Rough Rice Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,20/8/86,,,Agriculture & Livestock,0.5,20,1518,,0.5,ZR,ZR
+&ZS,471560,Soybean Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,2/2/68,,,Agriculture & Livestock,0.25,50,2640,,0.25,ZS,ZS
+&ZS_CCB,687051,Soybean Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,2/2/68,,,Agriculture & Livestock,0.25,50,2640,,0.25,ZS,ZS
+&ZT,471480,2-Year U.S. T-Note Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Interest Rate,,,,,22/6/90,,,Interest Rate,0.00390625,2000,1320,,0.00390625,ZT,ZT
+&ZT_CCB,686975,2-Year U.S. T-Note Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Interest Rate,,,,,22/6/90,,,Interest Rate,0.00390625,2000,1320,,0.00390625,ZT,ZT
+&ZW,471568,Chicago SRW Wheat Continuous Contract,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,5/1/78,,,Agriculture & Livestock,0.25,50,2200,,0.25,ZW,ZW
+&ZW_CCB,687059,Chicago SRW Wheat Continuous Contract Backadjusted,USD,CBOT,Chicago Board of Trade (CME Group),Futures Market,Agriculture,,,,,5/1/78,,,Agriculture & Livestock,0.25,50,2200,,0.25,ZW,ZW
